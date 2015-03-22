@@ -1,0 +1,1 @@
+implement SIGKDD'02 Sequential pattern mining using a bitmap representation
