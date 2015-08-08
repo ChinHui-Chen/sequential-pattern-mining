@@ -1,5 +1,6 @@
 # sequential-pattern-mining
-Implementation of SPAM: Sequential PAttern Mining. 
+Map Reduce based implementation of SPAM: Sequential PAttern Mining algorithm. 
+
 
 <b>Sequential PAttern Mining Using Bitmaps.</b>  
 Jay Ayres, Johannes Gehrke, Tomi Yiu, and Jason Flannick.  
